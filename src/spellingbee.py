@@ -39,9 +39,8 @@ def calcTotal(words):
         print(words[word], '\t', word)
         sum += words[word]
 
-    print("-----------------")
-    print(len(words), "words")
-    print(sum, 'points')
+    print("--------------------")
+    print(len(words), "words,", sum, 'points')
     print()
     printHive()
 
