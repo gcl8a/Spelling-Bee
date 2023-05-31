@@ -1,7 +1,7 @@
 words = {}
 
 # center letter must come first
-letters = 'twoguhr'
+letters = 'twoghur'
 
 sum = 0
 
