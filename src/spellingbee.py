@@ -42,7 +42,6 @@ def calcTotal(words):
     print("--------------------")
     print(len(words), "words,", sum, 'points')
     print()
-    printHive()
 
     return sum
 
@@ -63,6 +62,7 @@ for line in inFile:
 inFile.close()
 
 calcTotal(words)
+printHive()
 
 while True:
     word = input("Enter a word: ")
@@ -80,6 +80,7 @@ while True:
         words[word] = score
 
     calcTotal(words)
+    printHive()
 
 calcTotal(words)
 
