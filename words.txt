@@ -12,6 +12,7 @@ outthought
 root
 rotgut
 rotor
+rout
 thorough
 thou
 though
@@ -30,6 +31,7 @@ trough
 truth
 tutu
 woot
+wort
 worth
 wroth
 wrought
