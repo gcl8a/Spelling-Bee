@@ -1,9 +1,22 @@
 words = {}
 
 # center letter must come first
-letters = 'igylode'
+letters = ''
 
-sum = 0
+def processWord(word):
+    global letters ## not good practice
+    if word.startswith('-'):
+        wordToDrop = word.strip('-')
+        if wordToDrop in words:
+            words.pop(wordToDrop)
+
+    if word.startswith('+'):
+        letters = word.strip('+')
+
+    score = calcScore(word)
+
+    if score:
+        words[word] = score
 
 def calcScore(word):
     score = len(word)
@@ -25,7 +38,7 @@ def calcScore(word):
         if l not in word:
             pangram = 0
 
-    score += pangram
+    if score: score += pangram
 
     if pangram: print("\nPangram!")
     print(word, "is worth", score, "points.")
@@ -54,12 +67,12 @@ def printHive():
     print('    ', upperCase[5], ' ', upperCase[6])
     print()
 
+
 inFile = open("words.txt")
 for line in inFile:
     word = line.strip()
-    score = calcScore(word)
-    if score:
-        words[word] = score
+    print(word)
+    processWord(word)
 inFile.close()
 
 calcTotal(words)
@@ -70,18 +83,7 @@ while True:
     if word == '': 
         break
 
-    if word.startswith('-'):
-        wordToDrop = word.strip('-')
-        if wordToDrop in words:
-            words.pop(wordToDrop)
-
-    if word.startswith('+'):
-        letters = word.strip('+')
-
-    score = calcScore(word)
-
-    if score:
-        words[word] = score
+    processWord(word)
 
     calcTotal(words)
     printHive()
@@ -90,6 +92,7 @@ calcTotal(words)
 
 outFile = open("words.txt", 'w')
 
+outFile.write('+' + letters + '\n')
 for w in sorted(words):
     outFile.write(w + "\n")
 outFile.close()
