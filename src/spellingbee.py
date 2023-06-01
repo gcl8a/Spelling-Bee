@@ -75,6 +75,9 @@ while True:
         if wordToDrop in words:
             words.pop(wordToDrop)
 
+    if word.startswith('+'):
+        letters = word.strip('+')
+
     score = calcScore(word)
 
     if score:
