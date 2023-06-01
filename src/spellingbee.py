@@ -1,7 +1,7 @@
 words = {}
 
 # center letter must come first
-letters = 'twoghur'
+letters = 'igylode'
 
 sum = 0
 
@@ -58,7 +58,8 @@ inFile = open("words.txt")
 for line in inFile:
     word = line.strip()
     score = calcScore(word)
-    words[word] = score
+    if score:
+        words[word] = score
 inFile.close()
 
 calcTotal(words)
