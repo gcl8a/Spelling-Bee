@@ -1,3 +1,18 @@
+import os
+
+wordbank = list()
+
+word_files = os.listdir(os.getcwd() + '/words')
+print(word_files)
+for filename in word_files:
+   with open(os.path.join(os.getcwd() + '/words', filename), 'r') as file: # open in readonly mode
+        for word in file: 
+            word = word.strip()
+            if not word.startswith('+'):
+                wordbank.append(word)
+
+print(wordbank)
+
 words = {}
 
 # center letter must come first
@@ -5,18 +20,21 @@ letters = ''
 
 def processWord(word):
     global letters ## not good practice
+    global wordbank
     if word.startswith('-'):
         wordToDrop = word.strip('-')
         if wordToDrop in words:
             words.pop(wordToDrop)
 
-    if word.startswith('+'):
+    elif word.startswith('+'):
         letters = word.strip('+')
+        words.clear()
+        processWordbank(wordbank)
 
-    score = calcScore(word)
-
-    if score:
-        words[word] = score
+    else:
+        score = calcScore(word)
+        if score:
+            words[word] = score
 
 def calcScore(word):
     score = len(word)
@@ -45,6 +63,10 @@ def calcScore(word):
 
     return score
 
+def processWordbank(bank):
+    for word in bank:
+        processWord(word)
+
 def calcTotal(words):
     sum = 0
     print()
@@ -66,7 +88,6 @@ def printHive():
     print()
     print('    ', upperCase[5], ' ', upperCase[6])
     print()
-
 
 inFile = open("words.txt")
 for line in inFile:
