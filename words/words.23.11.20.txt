@@ -7,6 +7,7 @@ arch
 archaic
 aria
 carp
+carpi
 chai
 chair
 chap
@@ -30,4 +31,5 @@ paragraph
 parch
 pariah
 pica
+priapic
 raga
