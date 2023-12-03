@@ -8,6 +8,7 @@ bottleful
 buff
 buffet
 effete
+etouffee
 feeble
 feel
 feet
@@ -34,5 +35,6 @@ teff
 toffee
 tofu
 tubeful
+tubful
 tuffet
 tuft
