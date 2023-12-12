@@ -44,7 +44,7 @@ def calcScore(word):
     for l in word:
         if l not in letters:
             score = 0
-
+            
     if letters[0] not in word:
         score = 0
 
