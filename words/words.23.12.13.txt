@@ -29,6 +29,7 @@ main
 maize
 mama
 mamma
+manage
 managing
 mane
 manga
@@ -42,6 +43,8 @@ meanie
 meaning
 mega
 meme
+meming
+meze
 mezzanine
 mezze
 mien
