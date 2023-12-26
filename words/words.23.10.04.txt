@@ -12,7 +12,6 @@ hardtop
 harp
 hoop
 hotpot
-opah
 papa
 parador
 paradrop
