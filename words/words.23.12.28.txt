@@ -25,6 +25,7 @@ gavel
 guava
 gulag
 laggy
+lallygag
 lava
 lavage
 lave
