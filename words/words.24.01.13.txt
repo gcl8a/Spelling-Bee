@@ -50,6 +50,7 @@ mega
 megaplex
 paella
 page
+palapa
 pale
 pall
 palm
