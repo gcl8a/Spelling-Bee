@@ -14,6 +14,7 @@ entice
 icicle
 illicit
 incite
+intellect
 kick
 lice
 licit
