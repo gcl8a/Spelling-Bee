@@ -6,6 +6,7 @@ actuate
 acute
 affect
 cafe
+calculate
 calf
 call
 calla
@@ -16,14 +17,19 @@ cell
 cellule
 cleat
 clef
+cleft
 clue
 cuff
 cull
 cult
 cute
+cutlet
+cuttle
 eclat
+efface
 effect
 effectual
+effectuate
 elect
 electee
 face
@@ -36,6 +42,7 @@ fleece
 fluctuate
 lace
 lactate
+lacteal
 lettuce
 tacet
 tact
