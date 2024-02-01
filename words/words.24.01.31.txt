@@ -5,6 +5,7 @@ baby
 badly
 baggy
 bald
+baldly
 ball
 ballad
 baud
@@ -16,6 +17,7 @@ buddy
 buggy
 bulb
 bulgy
+bull
 bully
 daub
 gabby
