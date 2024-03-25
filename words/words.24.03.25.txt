@@ -18,6 +18,7 @@ bobbin
 bobbing
 bobbling
 bogging
+boggling
 boil
 boiling
 boing
