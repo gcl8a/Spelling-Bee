@@ -1,4 +1,4 @@
-+rdlcioa
++rlodcai
 accord
 acrid
 arcadia
@@ -10,7 +10,9 @@ aril
 caloric
 card
 cardiac
+cardio
 carioca
+carload
 carol
 circa
 cirri
@@ -23,6 +25,7 @@ cord
 cordial
 corolla
 corral
+corridor
 croc
 croci
 dollar
