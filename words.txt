@@ -46,6 +46,7 @@ diced
 dicta
 dictate
 dictated
+didact
 didactic
 dietetic
 edict
