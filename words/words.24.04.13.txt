@@ -1,4 +1,4 @@
-+nioavpl
++nilovpa
 anal
 anion
 annal
@@ -28,10 +28,13 @@ panini
 papillon
 pavilion
 piano
+pianola
+pillion
 pinion
 pippin
 plain
 plan
+poplin
 vain
 vanilla
 vanillin
