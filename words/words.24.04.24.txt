@@ -8,7 +8,9 @@ iota
 itty
 oratorio
 pair
+papyri
 parity
+partita
 patio
 patriot
 pipit
