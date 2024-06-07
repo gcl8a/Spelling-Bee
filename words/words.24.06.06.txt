@@ -9,6 +9,7 @@ ally
 array
 arty
 carry
+carryall
 catalytic
 catalytically
 cattily
