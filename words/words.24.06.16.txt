@@ -1,6 +1,7 @@
-+ctrhuao
++cutroah
 achoo
 actor
+actuator
 arch
 arco
 attach
@@ -9,6 +10,7 @@ attractor
 autocrat
 cacao
 carat
+carrot
 cart
 cataract
 catch
@@ -16,6 +18,7 @@ char
 chart
 chat
 church
+churro
 coach
 coat
 coauthor
@@ -28,12 +31,15 @@ court
 couth
 croc
 crotch
+crouch
 crutch
+curator
 curt
 cutout
 cutthroat
 hatch
 hooch
+horchata
 hutch
 occur
 orca
