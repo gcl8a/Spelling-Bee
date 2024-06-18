@@ -25,6 +25,7 @@ coauthor
 coca
 cocoa
 coho
+cohort
 coot
 couch
 court
