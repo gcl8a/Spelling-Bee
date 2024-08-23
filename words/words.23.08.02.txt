@@ -21,7 +21,6 @@ bleat
 catcall
 cattle
 cleat
-eatable
 eclat
 eject
 ejecta
