@@ -20,7 +20,6 @@ emcee
 emceed
 idiom
 lime
-limed
 limo
 loom
 loomed

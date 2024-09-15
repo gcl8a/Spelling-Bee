@@ -22,7 +22,6 @@ lemma
 lima
 lime
 limeade
-limed
 llama
 madam
 madame
