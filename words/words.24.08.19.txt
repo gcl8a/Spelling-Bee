@@ -19,7 +19,6 @@ hoot
 hoppy
 hora
 horror
-hortator
 hotpot
 hypo
 oath
