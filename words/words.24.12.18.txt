@@ -1,4 +1,4 @@
-+tfkroac
++torkfac
 actor
 afoot
 aorta
@@ -11,6 +11,7 @@ carrot
 cart
 cataract
 coat
+coatrack
 cockatoo
 cofactor
 coot
@@ -30,6 +31,7 @@ ratatat
 root
 rotator
 rotor
+rotorcraft
 tack
 taco
 tact
