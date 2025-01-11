@@ -13,7 +13,6 @@ harp
 hoop
 hotpot
 papa
-parador
 paradrop
 paratha
 paratroop
