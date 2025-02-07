@@ -8,7 +8,6 @@ queue
 queueing
 queuing
 quiet
-quieten
 quieting
 quinine
 quint
