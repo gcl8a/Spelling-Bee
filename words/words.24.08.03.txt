@@ -10,7 +10,6 @@ civilian
 convivial
 lava
 naval
-nonvocal
 nova
 oval
 vain
