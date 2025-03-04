@@ -12,7 +12,6 @@ beat
 beatable
 beet
 beetle
-belate
 belt
 beta
 betel
