@@ -1,4 +1,4 @@
-+azynled
++adelnyz
 added
 addend
 addenda
@@ -21,6 +21,8 @@ azalea
 daddy
 dale
 dally
+dandle
+dandled
 dandy
 daze
 dazed
@@ -51,6 +53,7 @@ landed
 landlady
 lane
 laze
+lazed
 lazy
 lead
 leaded
