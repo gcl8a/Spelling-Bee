@@ -1,7 +1,6 @@
 +cpamino
 acacia
 acai
-anionic
 cacao
 caiman
 cami

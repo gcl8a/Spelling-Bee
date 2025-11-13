@@ -3,7 +3,6 @@ amino
 ammo
 amnio
 anion
-anionic
 anon
 cacao
 camo
