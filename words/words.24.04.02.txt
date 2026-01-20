@@ -43,6 +43,5 @@ naif
 niftily
 nifty
 taffy
-tailfin
 tiff
 tiffany
